@@ -1,7 +1,7 @@
 # 100 Week Challenge Background:
 The overal goal of this challenge is to create a simple website design every week, for a 100 weeks!
 Each week I will increase the complexity of the design, by week 100 the final design will include:
-## Front-end:
+Front-end:
 1. Javascript/TypeScript
 2. CSS
 3. HTML
@@ -9,12 +9,13 @@ Each week I will increase the complexity of the design, by week 100 the final de
 5. JQuery
 6. + whatever else I learn!
 
-## Back-end:
+Back-end:
 1. Expressjs
 2. C#
 4.+ whatever else I learn!
 
 # Week One Challenge:
+
 During week one I reviewed basic HTML and CSS to transtion pages with SmoothScroll:
 ```
 body {
@@ -46,8 +47,16 @@ body {
   
   ```
   
-  Completed a lecture video to create the same affect in JavaScript, this method works on any web browser. Where pure CSS can create edge cases in Explorer:
+  Completed a lecture video to create the same affect in JavaScript, this method works on any web browser. Where pure CSS can create edge cases in Explorer:  
+  
+   HTML:
   ```
+     <!-- <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script> -->
+    <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@15.0.0/dist/smooth-scroll.polyfills.min.js"></script>
+    <script src="main.js"></script> 
+```
+ Main JS:
+```
 /* Option 2 - jQuery Smooth Scrolling */
  $('.navbar a').on('click', function (e) {
      console.log(this.hash)
