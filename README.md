@@ -1,6 +1,7 @@
 # 100 Week Challenge Background:
 The overal goal of this challenge is to create a simple website design every week, for a 100 weeks!
 Each week I will increase the complexity of the design, by week 100 the final design will include:
+
 Front-end:
 1. Javascript/TypeScript
 2. CSS
