@@ -7,12 +7,13 @@ Front-end:
 3. HTML
 4. React
 5. JQuery
-6. + whatever else I learn!
 
 Back-end:
 1. Expressjs
 2. C#
-4.+ whatever else I learn!
+
+Plus whatever else I learn!
+
 
 # Week One Challenge:
 
